@@ -1,0 +1,2 @@
+// in questo caso l'operatore logico più appropriato è l'AND, questo operatore implica che entrambe le condizioni devono essere vere. Il risultato deve essere falso quindi mettere l'AND è la soluzione giusta.
+console.log("testing" == "testing" && "Mario" == "Cool Guy")
